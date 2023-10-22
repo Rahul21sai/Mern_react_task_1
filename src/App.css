@@ -1,0 +1,13 @@
+#main{
+  width: 600px;
+}
+body{
+  padding-top: 100px;
+}
+#inputBox{
+  width: 500px;
+  height: 150px;
+}
+#wc{
+  padding-left: 50px;
+}
